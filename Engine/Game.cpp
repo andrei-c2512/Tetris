@@ -31,7 +31,6 @@ Game::Game(MainWindow& wnd)
 	cam(ct),
 	cs(cam),
 	Timer(),
-	sprite("dib.bmp"),
 	player(brd , tDisplayer),
 	score_brd(brd , tDisplayer),
 	brd(particle_effect)
