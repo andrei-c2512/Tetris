@@ -10,3 +10,10 @@ Game built on top of the Chilli Framework, based on DirectX. Provides access to 
 I did not benefit from any drawing libraries and had to do all rendering methods myself. I also used the Windows API to read `.bmp` files.  
 
 Other than that, it's just Tetris with a stolen background from the internet.
+
+## Controls 
+
+Left-Right Arrows - Tetromino movement  
+Down Arrow - Speed up falling
+Q - Skip falling
+R - Rotate tetromino
