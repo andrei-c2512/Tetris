@@ -13,7 +13,7 @@ Other than that, it's just Tetris with a stolen background from the internet.
 
 ## Controls 
 
-Left-Right Arrows - Tetromino movement  
-Down Arrow - Speed up falling
-Q - Skip falling
+Left-Right Arrows - Tetromino movement    
+Down Arrow - Speed up falling  
+Q - Skip falling  
 R - Rotate tetromino
